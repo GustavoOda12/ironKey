@@ -53,3 +53,5 @@ class AppTheme {
     scaffoldBackgroundColor: backgroundDark,
  );
 }
+
+enum PasswordType { pin, standard}
